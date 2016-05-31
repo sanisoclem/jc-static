@@ -13,7 +13,7 @@
   "dependencies": {
     "body-parser": "^1.15.1",
     "bower": "^1.7.1",
-    "express": "^4.13.4",
+    "express": "^4.13.4","grunt-cli": "^0.1.13",
     "grunt": "^0.4.5",
     "grunt-bower-task": "^0.4.0",
     "grunt-contrib-copy": "^1.0.0",
